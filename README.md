@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksathyanm&color=c2cb12" alt="ksathyanm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksathyanm&color=brightgreen" alt="ksathyanm" /> </p>
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning [N-API](https://nodejs.org/api/n-api.html), [AWS](https://aws.amazon.com), [GraphQL](https://graphql.org)
