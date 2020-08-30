@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksathyanm&color=c2cb12" alt="ksathyanm" /> </p>
+
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning [N-API](https://nodejs.org/api/n-api.html), [AWS](https://aws.amazon.com), [GraphQL](https://graphql.org)
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -31,12 +33,10 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<a href="https://github.com/ksathyanm">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksathyanm&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/ksathyanm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksathyanm&theme=highcontrast" />
-</a>
+</p>
 
 <!--
 **ksathyanm/ksathyanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
