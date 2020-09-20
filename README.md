@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksathyanm&color=brightgreen" alt="ksathyanm" /> </p>
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning [N-API](https://nodejs.org/api/n-api.html), [AWS](https://aws.amazon.com), [GraphQL](https://graphql.org)
+- 🌱 I’m currently learning [N-API](https://nodejs.org/api/n-api.html), [AWS](https://aws.amazon.com), [GraphQL](https://graphql.org), [MongoDB](https://www.mongodb.com), [Deno](https://deno.land)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
